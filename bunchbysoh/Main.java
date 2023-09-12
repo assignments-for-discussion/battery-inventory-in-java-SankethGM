@@ -24,7 +24,7 @@ public class Main {
             else counts.failed++;
         }
 
-    return counts
+    return counts;
   }
 
   static void testBucketingByHealth() {
